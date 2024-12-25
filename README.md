@@ -250,7 +250,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|⬜|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|⬜|
-|[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|⬜|
+|[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✅|
 |[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) [`2hr13m`]|⬜|
 |[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) [`4hr1m`]|⬜|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]|⬜|
